@@ -1,5 +1,5 @@
 /* eslint global-require:0, no-nested-ternary:0 */
-
+// 报错，待修改
 import React, { Component } from 'react'
 
 import { View, Text, Image, Button } from 'react-native'

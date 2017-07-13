@@ -48,7 +48,7 @@ export default class MainContainer extends Component {
         {/*<TabExample></TabExample>*/}
         {/*<NavbarMe></NavbarMe>*/}
         {/*<PopoverMe></PopoverMe>        */}
-        <Image source={require('../../images/mainbak.jpg')} style={{marginTop:60}}>
+        <Image source={require('../../src/images/mainbak.jpg')} style={{marginTop:60}}>
               
               <Image source={{ uri: this.state.imgURL }} style={{ width: 200, height: 200, borderRadius: 100,marginLeft:10}}></Image>
         </Image>
